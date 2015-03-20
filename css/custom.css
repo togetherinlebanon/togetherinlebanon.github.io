@@ -3,6 +3,14 @@
 .buttonz a { padding: 0 !important; }
 #schedule .btn-side { text-align: center; padding: 0px 20px; width: auto; }
 
+pre {
+    white-space: pre-wrap;       /* CSS 3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
 .features-circle { 
   background-size: 180px 180px;
   background-color: #7285AC;
