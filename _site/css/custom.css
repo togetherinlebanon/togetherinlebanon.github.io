@@ -68,14 +68,13 @@ header .row { z-index: 2; position: relative; }
 .section-signup a { color: white; text-decoration: underline; }
 .mailchimp {color: black;}
 .subheader { text-align: center; color: white; text-transform: uppercase; }
-.til { width: 100px; float: right; }
-.til { margin-right: 135px; position: relative}
+.til { width: 100px; margin-right: auto; margin-left: auto;}
 
 .logo { font-family: 'Droid Sans Mono';}
 
 .site-header {
   background-position: 0% 50%;
- background-image: url("../img/beirut.jpg");
+  background-image: url("../img/beirut.jpg");
 }
 
 .header-intro-wrap {
